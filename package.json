@@ -1,0 +1,29 @@
+{
+  "name": "wordlist-component",
+  "version": "0.0.1",
+  "description": "wordlist-component-component",
+  "author": {
+    "name": "Madhav Deverkonda",
+    "url": "https://github.com/mdeverkonda"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdeverkonda/github.com/mdeverkonda.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdeverkonda/github.com/mdeverkonda/issues"
+  },
+  "homepage": "https://github.com/mdeverkonda/github.com/mdeverkonda",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "test": "lerna run test",
+    "publish": "lerna publish"
+  },
+  "dependency": {},
+  "devDependencies": {
+    "lerna": "^2.8.0",
+    "lodash": "^4.10.1",
+    "xclap": "^0.2.0"
+  },
+  "private": true
+}
